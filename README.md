@@ -1,6 +1,7 @@
 <!-- **guruprasad9610/guruprasad9610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 
 <h1 align="center">Hi 👋, I'm Guru Prasad</h1>
 <h3 align="center">A passionate Full-stack Software Developer from India</h3>
@@ -44,23 +45,13 @@
 
 <p align="left"> <a href="https://twitter.com/guruprasad9610" target="blank"><img src="https://img.shields.io/twitter/follow/guruprasad9610?logo=twitter&style=for-the-badge" alt="guruprasad9610" /></a> </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasad9610&show_icons=true&locale=en&layout=compact" alt="guruprasad9610" /></p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasad9610&show_icons=true&locale=en" alt="guruprasad9610" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasad9610&" alt="guruprasad9610" /></p>
-
-
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruprasad9610" alt="guruprasad9610" /></a> </p>
 
-<br> <br> <br>
-
-
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
