@@ -45,8 +45,6 @@
 
 
 
-<p>&nbsp;<img align="left" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /> </p>
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=guruprasad9610&show_icons=true&locale=en" alt="guruprasad9610" /></p>
 
 
