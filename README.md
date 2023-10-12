@@ -44,14 +44,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guruprasad9610&label=Profile%20views&color=0e75b6&style=flat" alt="guruprasad9610" /> </p>
 
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=guruprasad9610&show_icons=true&locale=en" alt="guruprasad9610" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasad9610&show_icons=true&locale=en&layout=compact" alt="guruprasad9610" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasad9610&" alt="guruprasad9610" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=guruprasad9610&show_icons=true&locale=en" alt="guruprasad9610" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=guruprasad9610&show_icons=true&locale=en&layout=compact" alt="guruprasad9610" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruprasad9610&" alt="guruprasad9610" /></p>
+
+
 
 
 
