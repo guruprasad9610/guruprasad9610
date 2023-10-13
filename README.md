@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/guruprasad9610](https://linktr.ee/guruprasad9610)
 
-- 💬 Ask me about **MEAN, Ionic, Android**
+- 💬 Ask me about **MEARN, Ionic, Android**
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
