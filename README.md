@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruprasad-dev.netlify.app/" height="30" width="40" /></a>
+<a href="https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruprasad-dev.netlify.app/" height="30" width="40" /></a>
 <a href="https://twitter.com/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@guruprasad104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@guruprasad104" height="30" width="40" /></a>
-<a href="/https://www.threads.net/@guruprasadsahu9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.threads.net/@guruprasadsahu9610" height="30" width="40" /></a>
+<a href="https://www.threads.net/@guruprasadsahu9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.threads.net/@guruprasadsahu9610" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
