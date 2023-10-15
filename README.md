@@ -22,11 +22,11 @@
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/9q4bb](https://rb.gy/9q4bb)
+- 📄 Know about my experiences [https://rb.gy/jjrsu](https://rb.gy/jjrsu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://guruportfolio2.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruportfolio2.netlify.app/" height="30" width="40" /></a>
+<a href="https://dev.to/https://guruprasad-dev.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://guruprasad-dev.netlify.app/" height="30" width="40" /></a>
 <a href="https://twitter.com/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guruprasad9610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasad9610" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22243758/guru-prasad-sahu?tab=profile" height="30" width="40" /></a>
