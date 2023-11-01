@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/7oumn](https://rb.gy/7oumn)
+- 📄 Know about my experiences [https://rb.gy/r7ybp](https://rb.gy/r7ybp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
