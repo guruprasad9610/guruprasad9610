@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am Vengeance🖤**
 
-- 🔭 I’m currently working on **Ajatus Software**
+- 🔭 I’m currently working with **Logyscal Solutions**
 
 - 🌱 I’m currently learning **Microsoft Dynamics 365 & Power Platform**
 
