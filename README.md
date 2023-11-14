@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Guru Prasad</h1>
-<h3 align="center">A passionate Full-stack Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/guruprasad9610](https://linktr.ee/guruprasad9610)
 
-- 💬 Ask me about **MEARN, Ionic, Android**
+- 💬 Ask me about **MEARN, Android, Ionic, Kotlin, Firebase**
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
