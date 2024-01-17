@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/r7ybp](https://rb.gy/r7ybp)
+- 📄 Know about my experiences [View My RESUME](https://rb.gy/e939cm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
