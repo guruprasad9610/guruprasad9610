@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **guruprasad9610@gmail.com**
 
-- 📄 Know about my experiences [View My RESUME](https://drive.google.com/file/d/1lMXiObf327Gd1jk425t60_zuZLYPTi4L/view?usp=sharing)
+- 📄 Know about my experiences [View My RESUME](https://drive.google.com/file/d/1U6KXWH3GdRHWE4EbgOqSQri_EQbdQxfS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
